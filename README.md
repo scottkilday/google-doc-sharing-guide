@@ -21,5 +21,3 @@ This guide explains how to create a Google Document and share it with editing pe
 
 ## Result
 The document is shared with the specified recipient. The recipient can edit the document and collaborate in real time.
-
-Add documentation guide for sharing a Google Document with editing permissions
